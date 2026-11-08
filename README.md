@@ -29,6 +29,13 @@ npm start                 # http://localhost:8080
 
 ## Despliegue
 
+### URLs del proyecto
+
+- Repositorio: https://github.com/JoseGallud/practica1-api
+- API desplegada: https://practica1-api.onrender.com
+- Recintos: https://practica1-api.onrender.com/recintos
+- Eventos: https://practica1-api.onrender.com/eventos
+
 ### MongoDB Atlas
 1. Crear un cluster gratuito (M0).
 2. *Database Access*: crear un usuario con contraseña.
