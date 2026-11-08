@@ -1,0 +1,21 @@
+{
+  "name": "practica1-eventos",
+  "version": "1.0.0",
+  "description": "API REST de eventos, entradas y recintos",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "seed": "node db_seed.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^18.0.9",
+    "express": "^5.3.0",
+    "mongoose": "^9.12.0"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
